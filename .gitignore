@@ -1,3 +1,6 @@
+*.dge
+*.ipk
+
 # Prerequisites
 *.d
 

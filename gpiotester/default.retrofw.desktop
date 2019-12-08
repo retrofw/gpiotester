@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=GPIO Tester
+Comment=Test GPIO ports
+Exec=gpiotester.dge
+Icon=gpiotester
+Categories=applications;

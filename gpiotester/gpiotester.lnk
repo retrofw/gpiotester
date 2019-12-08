@@ -1,0 +1,3 @@
+title=GPIO Tester
+description=Input/Output tester
+exec=/home/retrofw/apps/gpiotester/gpiotester.dge

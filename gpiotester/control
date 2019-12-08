@@ -1,0 +1,10 @@
+Package: gpiotester
+Version: 
+Description: GPIO Tester
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/pingflood/gpiotester
+Depends:
+Source: https://github.com/pingflood/gpiotester

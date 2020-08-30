@@ -310,6 +310,10 @@ int main(int argc, char* argv[]) {
 			sprintf(buf, "Keysym.sym: %d", event.key.keysym.sym);
 			draw_text(bgrect.x + 104, bgrect.y + nextline, buf, subTitleColor, VAlignBottom);
 			nextline += 16;
+
+			sprintf(buf, "Keysym.scancode: %d", event.key.keysym.scancode);
+			draw_text(bgrect.x + 104, bgrect.y + nextline, buf, subTitleColor, VAlignBottom);
+			nextline += 16;
 		}
 
 		if (udcStatus) {
